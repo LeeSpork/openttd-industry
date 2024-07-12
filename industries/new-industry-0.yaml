@@ -8,9 +8,9 @@ id: 0
 layout:
 - - - -1
 name: 'New industry #0'
-placement: anywhere
+placement: near-town
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 0
 tiles: []
-type: primary
+type: secondary
